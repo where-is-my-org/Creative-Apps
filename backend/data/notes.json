@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2025-12-05",
+    "title": "Design review aligned on scope",
+    "detail": "Agreed on MVP focus and storyboard sections.",
+    "tags": ["note", "decision"]
+  },
+  {
+    "date": "2025-12-18",
+    "title": "Integration risk flagged",
+    "detail": "MCP server response times spiked during demo prep.",
+    "tags": ["risk", "blocker"]
+  },
+  {
+    "date": "2026-01-07",
+    "title": "Next sprint focus",
+    "detail": "Refine narrative scoring and export format.",
+    "tags": ["next"]
+  }
+]
